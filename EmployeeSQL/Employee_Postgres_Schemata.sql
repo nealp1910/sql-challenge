@@ -82,4 +82,3 @@ CREATE TABLE dept_manager (
 
 -- View department manager table
 SELECT * FROM dept_manager;
---------------------------------------------------------------------------
